@@ -1,4 +1,4 @@
-### Otvoreni podaci BiH
+# Otvoreni podaci BiH
 **Neki podaci su dostupni na [Open Data BiH](https://github.com/Open-Data-BiH/open-data)**
 
 
