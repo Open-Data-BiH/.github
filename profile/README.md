@@ -1,6 +1,11 @@
 # Otvoreni podaci BiH
-**Neki podaci su dostupni na [Open Data BiH](https://github.com/Open-Data-BiH/open-data)**
+**Određeni skupovi podataka su dostupni u okviru repozitorijuma [Open Data BiH](https://github.com/Open-Data-BiH/open-data)**
 
+
+> **Digitalno bogatsvo jedne zemlje čine skupovi otvorenih podataka koje ta zemlja posjeduje i emituje.**
+
+
+---
 
 ![Otvoreni podaci BiH](https://raw.githubusercontent.com/Open-Data-BiH/.github/main/profile/OpenDataBiH-1.jpg)
 
