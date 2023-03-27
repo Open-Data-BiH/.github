@@ -15,7 +15,8 @@ Trenutno jedini grad koji ima portal otvorenih podataka je Prijedor - [Open data
 
 <p align="center"><a href="https://novine.ba/2020/12/22/wb-kako-javni-podaci-i-digitalizacija-mogu-potaci-ekonomski-razvoj-i-inovacije-u-bih/" target="_blank">Izvor za ilustraciju</a></p>
 
+<!--- <p align="center">* * *</p> --->
 
-Pridruži se i ti ovoj inicijativi.
+### Pridružite se i vi ovoj inicijativi i udostojite ovaj iskren trud vašom pažnjom 🙏
 
 ### [Definicija otvorenih podataka](https://github.com/Open-Data-BiH/opendefinition)
