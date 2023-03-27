@@ -1,12 +1,21 @@
 # Otvoreni podaci BiH
-**Određeni skupovi podataka su dostupni u okviru repozitorijuma [Open Data BiH](https://github.com/Open-Data-BiH/opendata)**
 
+Inicijativa Open Data BiH ima za cilj da što više podataka u BiH vidi (digitalno) svjetlo dana jer 
 
 > **Digitalno bogatsvo jedne zemlje čine skupovi otvorenih podataka koje ta zemlja posjeduje i emituje.**
+
+Trenutno jedini grad koji ima portal otvorenih podataka je Prijedor - [Open data Prijedor](https://opendataprijedor.ba/)
+
+**Određeni skupovi podataka za druge gradove su dostupni u okviru repozitorijuma [Open Data BiH](https://github.com/Open-Data-BiH/opendata)**
 
 
 ---
 
 ![Otvoreni podaci BiH](https://raw.githubusercontent.com/Open-Data-BiH/.github/main/profile/OpenDataBiH-1.jpg)
 
-[Izvor za ilustraciju](https://novine.ba/2020/12/22/wb-kako-javni-podaci-i-digitalizacija-mogu-potaci-ekonomski-razvoj-i-inovacije-u-bih/)
+<p align="center"><a href="https://novine.ba/2020/12/22/wb-kako-javni-podaci-i-digitalizacija-mogu-potaci-ekonomski-razvoj-i-inovacije-u-bih/" target="_blank">Izvor za ilustraciju</a></p>
+
+
+Pridruži se i ti ovoj inicijativi.
+
+### [Definicija otvorenih podataka](https://github.com/Open-Data-BiH/opendefinition)
